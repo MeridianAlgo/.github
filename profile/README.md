@@ -11,7 +11,7 @@ Blending education, tech, and collaboration for real change:
 ## Join Us
 Ready to contribute? Here's how:
 - **Explore Projects**: Dive into our [GitHub](https://github.com/meridianalgo) for tools and research. 
-- **Contribute**: Code, design, teach, or fundraise, check our [[Contributing Guide](https://github.com/MeridianAlgo/.github/blob/main/profile/CONTRIBUTING.md)]. 
+- **Contribute**: Code, design, teach, or fundraise, check our [Contributing Guide](https://github.com/MeridianAlgo/.github/blob/main/profile/CONTRIBUTING.md). 
 - **Connect**: For collaborations or workshops.
   
 
