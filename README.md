@@ -41,5 +41,5 @@ Ready to contribute? Here's how:
 Together, we're rewriting code for the world
 </p>
 <p align="center">
-  <img src="meridian-image.png" alt="MeridianAlgo" width="500" height="250"/>
+  <img src="profile/meridian-image.png" alt="MeridianAlgo" width="500" height="250"/>
 </p>
