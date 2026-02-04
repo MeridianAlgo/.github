@@ -1,4 +1,4 @@
-## 📘 Contributing to MeridianAlgo
+# Contributing to MeridianAlgo
 
 Welcome to **MeridianAlgo** — a collaborative hub focused on developing innovative, open-source algorithmic, AI, and quantitative systems for real-world applications in finance, robotics, and automation.
 
@@ -6,7 +6,7 @@ We’re thrilled that you’re interested in contributing. This document outline
 
 ---
 
-### 🧭 About Us
+### About Us
 
 **MeridianAlgo** is dedicated to:
 
@@ -18,7 +18,7 @@ We believe in open innovation — our work is powered by contributors like you.
 
 ---
 
-### 🚀 How to Contribute
+### How to Contribute
 
 #### 1. Fork & Clone
 
@@ -63,7 +63,7 @@ Our maintainers or research leads will review your PR. Feedback is collaborative
 
 ---
 
-### 🧩 Code Style & Standards
+### Code Style & Standards
 
 We maintain a clean, modular codebase:
 
@@ -73,7 +73,7 @@ We maintain a clean, modular codebase:
 
 ---
 
-### 📂 Branching Model
+### Branching Model
 
 | Branch       | Purpose                                         |
 | ------------ | ----------------------------------------------- |
@@ -84,7 +84,7 @@ We maintain a clean, modular codebase:
 
 ---
 
-### 🧠 Contribution Areas
+### Contribution Areas
 
 You can contribute to:
 
@@ -97,7 +97,38 @@ You can contribute to:
 
 ---
 
-### 🧾 License & Ethics
+### Security
+
+Security is a critical priority for MeridianAlgo. All contributors must adhere to our security practices:
+
+#### Security Guidelines
+
+* **Never commit sensitive data** including API keys, passwords, tokens, or credentials
+* **Use environment variables** for configuration and secrets
+* **Follow secure coding practices** for all development work
+* **Report vulnerabilities** privately through our security disclosure process
+* **Keep dependencies updated** and regularly scan for security issues
+
+#### Vulnerability Reporting
+
+If you discover a security vulnerability:
+
+1. **Do not open a public issue** - this exposes the vulnerability
+2. **Email us at**: security@meridianalgo.org
+3. Include **detailed information** about the vulnerability
+4. Allow us **reasonable time** to address the issue before disclosure
+
+#### Security Best Practices
+
+* Validate all input data and sanitize user inputs
+* Use secure authentication and authorization mechanisms
+* Implement proper error handling without exposing sensitive information
+* Follow the principle of least privilege in all systems
+* Regular security reviews and audits are encouraged
+
+---
+
+### License & Ethics
 
 Contributions to **MeridianAlgo** are released under multiple licenses.
 By contributing, you agree that:
@@ -108,7 +139,7 @@ By contributing, you agree that:
 
 ---
 
-### 💬 Communication
+### Communication
 
 We value open collaboration.
 You can reach out via:
@@ -121,7 +152,39 @@ Be kind, respectful, and constructive — we’re building something meaningful 
 
 ---
 
-### 🌌 Acknowledgements
+### Code of Conduct
+
+We are committed to providing a welcoming and inclusive environment for all contributors.
+
+#### Our Standards
+
+* **Respectful Communication**: Use welcoming and inclusive language
+* **Professional Conduct**: Harassment, discrimination, or inappropriate behavior is not tolerated
+* **Collaborative Spirit**: Focus on what is best for the community
+* **Constructive Feedback**: Provide helpful, respectful feedback on contributions
+
+#### Unacceptable Behavior
+
+* Harassment, discriminatory language, or personal attacks
+* Publishing private information without consent
+* Creating a disruptive or hostile environment
+* Any form of discrimination based on race, gender, religion, age, or background
+
+#### Reporting
+
+If you experience or witness unacceptable behavior:
+
+* Contact our conduct team at: conduct@meridianalgo.org
+* All reports will be handled confidentially and professionally
+* We will investigate and take appropriate action
+
+#### Enforcement
+
+We reserve the right to remove, edit, or reject contributions that do not adhere to this code of conduct. Serious or repeated violations may result in temporary or permanent bans from our community.
+
+---
+
+### Acknowledgements
 
 Every contribution, big or small, shapes the MeridianAlgo ecosystem.
 Your work directly helps expand the reach of open research and applied AI.
