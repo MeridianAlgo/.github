@@ -15,9 +15,9 @@ A high-school led nonprofit organization active in 4 countries, creating technol
 | Repository | Status |
 |------------|--------|
 | [Cryptvault](https://github.com/MeridianAlgo/Cryptvault) | ![Lint](https://github.com/MeridianAlgo/Cryptvault/actions/workflows/lint.yml/badge.svg) ![Tests](https://github.com/MeridianAlgo/Cryptvault/actions/workflows/tests.yml/badge.svg) |
-| [AraAI](https://github.com/MeridianAlgo/AraAI) | ![Train Forex](https://github.com/MeridianAlgo/AraAI/actions/workflows/hourly-train-forex.yml/badge.svg) ![Train Stock](https://github.com/MeridianAlgo/AraAI/actions/workflows/hourly-train-stock.yml/badge.svg) ![Lint](https://github.com/MeridianAlgo/AraAI/actions/workflows/lint.yml/badge.svg) |
+| [AraAI](https://github.com/MeridianAlgo/AraAI) | ![Lint](https://github.com/MeridianAlgo/AraAI/actions/workflows/lint.yml/badge.svg) |
 | [Learn-Quant](https://github.com/MeridianAlgo/Learn-Quant) | ![Lint](https://github.com/MeridianAlgo/Learn-Quant/actions/workflows/lint.yml/badge.svg) |
-| [![Full Training (Manual)](https://github.com/MeridianAlgo/FinAI/actions/workflows/train_full.yml/badge.svg)](https://github.com/MeridianAlgo/FinAI/actions/workflows/train_full.yml) ![CI](https://github.com/MeridianAlgo/FinAI/actions/workflows/ci.yml/badge.svg) |
+| FinAI |[![Full Training (Manual)](https://github.com/MeridianAlgo/FinAI/actions/workflows/train_full.yml/badge.svg)](https://github.com/MeridianAlgo/FinAI/actions/workflows/train_full.yml) ![CI](https://github.com/MeridianAlgo/FinAI/actions/workflows/ci.yml/badge.svg) |
 | [FinDB](https://github.com/MeridianAlgo/FinDB) | ![Scraping](https://github.com/MeridianAlgo/FinDB/actions/workflows/daily-scraping.yml/badge.svg) |
 | [Py-Pkg](https://github.com/MeridianAlgo/Python-Packages) | ![CI](https://github.com/MeridianAlgo/Python-Packages/actions/workflows/ci.yml/badge.svg) |
 | [JS-Pkg](https://github.com/MeridianAlgo/Javascript-Packages) | ![CI](https://github.com/MeridianAlgo/Javascript-Packages/actions/workflows/ci.yml/badge.svg) ![Release](https://github.com/MeridianAlgo/Javascript-Packages/actions/workflows/release.yml/badge.svg) |
