@@ -56,10 +56,6 @@ We welcome contributions from everyone. Please review our guidelines before part
 3. Follow our [Code Quality](CODE_QUALITY.md) standards
 4. Submit a pull request with your changes
 
-## Get Involved
-- **[Explore Projects](https://github.com/MeridianAlgo)** — Browse our repositories
-- **[Join Discussions](https://github.com/orgs/MeridianAlgo/discussions)** — Participate in community discussions
-
 ## Contact
 - **Website**: [meridianalgo.org](https://meridianalgo.org)
 - **Email**: [meridianalgo@gmail.com](mailto:meridianalgo@gmail.com)
