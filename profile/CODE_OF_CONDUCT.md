@@ -175,13 +175,12 @@ For understanding inclusive behavior:
 
 - **GitHub Community Guidelines**: [https://docs.github.com/en/github/site-policy/github-community-guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
 - **Contributor Covenant**: [https://www.contributor-covenant.org/](https://www.contributor-covenant.org/)
-- **Geek Feminism Wiki**: [https://geekfeminism.wikia.com/](https://geekfeminism.wikia.com/)
 
 ## Contact Information
 
 ### Conduct Team
 
-- **Email**: conduct@meridianalgo.org
+- **Email**: contact@meridianalgo.org
 - **Response Time**: Within 24 hours
 - **Confidentiality**: All reports handled confidentially
 
@@ -190,7 +189,7 @@ For understanding inclusive behavior:
 For urgent matters requiring immediate attention:
 
 - **Security**: security@meridianalgo.org
-- **Legal**: legal@meridianalgo.org
+- **Legal**: security@meridianalgo.org
 - **General**: contact@meridianalgo.org
 
 ## Acknowledgments
