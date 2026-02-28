@@ -1,7 +1,7 @@
 # MeridianAlgo
 **Empowering the world with Open-Source Innovation**
 
-A nonprofit organization active in 4 countries, creating technology for students, companies, and everyone in between. All our work is 100% open-source, transparent, and community-driven.
+A nonprofit organization active in multiple countries, creating technology for students, companies, and everyone in between. All our work is 100% open-source, transparent, and community-driven.
 
 ## What We Do
 - **Financial Literacy Workshops**: Interactive sessions on budgeting, investing, and debt avoidance
