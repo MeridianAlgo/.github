@@ -9,8 +9,7 @@ A nonprofit organization active in multiple countries, creating technology for s
 - **Community Partnerships**: Collaboration with schools, youth groups, and NGOs
 
 ## Projects
-
-We have a growing collection of open-source projects focused on financial technology, AI, quantitative finance, education, and blockchain. Here are **all our current public repositories**:
+We have a growing collection of open-source projects focused on financial technology, AI, quantitative finance, education, blockchain, and interoperability. Here are **all our current public repositories**:
 
 ### Core Tools & Platforms
 - **[AraAI](https://github.com/MeridianAlgo/AraAI)** — AI-powered financial analysis platform for stock volatility forecasting, market predictions, and portfolio optimization.
@@ -35,13 +34,16 @@ We have a growing collection of open-source projects focused on financial techno
 ### Blockchain & Crypto Infrastructure
 - **[AstryxChain](https://github.com/MeridianAlgo/AstryxChain)** — Quantum-walk-inspired cryptographic hash function built for blockchains and post-quantum security.
 - **[LuminaChain](https://github.com/MeridianAlgo/LuminaChain)** — Lightweight, sovereign Rust L1 blockchain purpose-built for unbreakable stablecoins (public template).
+- **[Interlink](https://github.com/MeridianAlgo/Interlink)** — Decentralized, high-performance interoperability protocol designed to bridge fragmented blockchain ecosystems through trustless, zero-knowledge cryptographic proofs.
+
+### Emerging / In-Development Projects
+- **[Unigroth](https://github.com/MeridianAlgo/Unigroth)** — A Rust implementation of the Groth16 zkSNARK,; but faster, secure, and more adaptable.
 
 ### Other
 - **[meridianalgo.org](https://github.com/MeridianAlgo/meridianalgo.org)** — Source code for our official website.
 
-
 ## Contributing Guidelines
-We welcome contributions from everyone. Please review our guidelines before participating:
+We welcome contributions from everyone. Please review our guidelines before participating.
 
 ## Documentation
 
@@ -64,13 +66,6 @@ We welcome contributions from everyone. Please review our guidelines before part
 ### FAQs
 - **[FAQ](FAQ.md)** — Common questions
 
-### Essential Documents
-- **[Contributing Guide](CONTRIBUTING.md)** — How to contribute to our projects
-- **[Code of Conduct](CODE_OF_CONDUCT.md)** — Community standards and expectations
-- **[Security Policy](SECURITY.md)** — Security guidelines and vulnerability reporting
-- **[Code Quality](CODE_QUALITY.md)** — Development standards and best practices
-- **[Issue Reporting](ISSUE_REPORTING.md)** — How to report bugs and request features
-
 ### Getting Started
 1. Fork the repository you want to contribute to
 2. Read our [Contributing Guide](CONTRIBUTING.md)
@@ -83,4 +78,4 @@ We welcome contributions from everyone. Please review our guidelines before part
 - **LinkedIn**: [MeridianAlgo](https://www.linkedin.com/company/meridianalgo)
 
 ---
-*Together, we're rewriting code for the world*
+*We stand on the shoulders of giants, reaching for the stars"
