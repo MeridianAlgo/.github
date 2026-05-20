@@ -32,12 +32,9 @@ We have a growing collection of open-source projects focused on financial techno
 - **[Basic-Sentiment-Analysis](https://github.com/MeridianAlgo/Basic-Sentiment-Analysis)** — FinBERT-powered sentiment analysis for financial news (public template).
 
 ### Blockchain & Crypto Infrastructure
-- **[AstryxChain](https://github.com/MeridianAlgo/AstryxChain)** — Quantum-walk-inspired cryptographic hash function built for blockchains and post-quantum security.
-- **[LuminaChain](https://github.com/MeridianAlgo/LuminaChain)** — Lightweight, sovereign Rust L1 blockchain purpose-built for unbreakable stablecoins (public template).
 - **[Interlink](https://github.com/MeridianAlgo/Interlink)** — Decentralized, high-performance interoperability protocol designed to bridge fragmented blockchain ecosystems through trustless, zero-knowledge cryptographic proofs.
-
-### Emerging / In-Development Projects
 - **[Unigroth](https://github.com/MeridianAlgo/Unigroth)** — A Rust implementation of the Groth16 zkSNARK,; but faster, secure, and more adaptable.
+
 
 ### Other
 - **[meridianalgo.org](https://github.com/MeridianAlgo/meridianalgo.org)** — Source code for our official website.
