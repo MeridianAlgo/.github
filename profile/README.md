@@ -50,8 +50,6 @@ We welcome contributions from everyone. Please review our guidelines before part
 ### Community and Contribution
 - **[Contributing Guide](CONTRIBUTING.md)** — How to contribute to our projects
 - **[Code of Conduct](CODE_OF_CONDUCT.md)** — Community standards and expectations
-- **[Support](SUPPORT.md)** — How to get help and where to ask questions
-- **[Governance](GOVERNANCE.md)** — How decisions are made and who maintains what
 
 ### Security and Quality
 - **[Security Policy](SECURITY.md)** — Security guidelines and vulnerability reporting
@@ -59,15 +57,6 @@ We welcome contributions from everyone. Please review our guidelines before part
 
 ### Issues
 - **[Issue Reporting](ISSUE_REPORTING.md)** — How to report bugs and request features
-
-### FAQs
-- **[FAQ](FAQ.md)** — Common questions
-
-### Getting Started
-1. Fork the repository you want to contribute to
-2. Read our [Contributing Guide](CONTRIBUTING.md)
-3. Follow our [Code Quality](CODE_QUALITY.md) standards
-4. Submit a pull request with your changes
 
 ## Contact
 - **Website**: [meridianalgo.org](https://meridianalgo.org)
