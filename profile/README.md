@@ -33,7 +33,7 @@ We have a growing collection of open-source projects focused on financial techno
 
 
 ### Other Projects
-- **[LiteLayer]([https://github.com/MeridianAlgo/LiteLayer)]** — A lightweight, secure storage layer for self-hosted NAS.
+- **[LiteLayer](https://github.com/MeridianAlgo/LiteLayer)** — A lightweight, secure storage layer for self-hosted NAS.
 
 
 ## Contributing Guidelines
