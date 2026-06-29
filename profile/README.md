@@ -1,12 +1,7 @@
 # MeridianAlgo
 **Empowering the world with Open-Source Innovation**
 
-A nonprofit organization active in multiple countries, creating technology for students, companies, and everyone in between. All our work is 100% open-source, transparent, and community-driven.
-
-## What We Do
-- **Financial Literacy Workshops**: Interactive sessions on budgeting, investing, and debt avoidance
-- **Open-Source Tools**: Open-source technology development
-- **Community Partnerships**: Collaboration with schools, youth groups, and NGOs
+We are a nonprofit organization active in multiple countries, creating technology for students, companies, and everyone in between. All our work is 100% open-source, transparent, and community-driven.
 
 ## Projects
 We have a growing collection of open-source projects focused on financial technology, AI, quantitative finance, education, blockchain, and interoperability. Here are **all our current public repositories**:
@@ -20,6 +15,7 @@ We have a growing collection of open-source projects focused on financial techno
 
 ### Education & Learning
 - **[Learn-Quant](https://github.com/MeridianAlgo/Learn-Quant)** — Beginner-friendly utilities and examples that power our quantitative finance programs in Python & JavaScript.
+- **[meridianalgo.org](https://github.com/MeridianAlgo/meridianalgo.org)** — Source code for our official website.
 
 ### Packages & Libraries
 - **[Python-Packages](https://github.com/MeridianAlgo/Python-Packages)** — Official Python packages (install via `pip install meridianalgo`).
@@ -36,8 +32,9 @@ We have a growing collection of open-source projects focused on financial techno
 - **[Unigroth](https://github.com/MeridianAlgo/Unigroth)** — A Rust implementation of the Groth16 zkSNARK,; but faster, secure, and more adaptable.
 
 
-### Other
-- **[meridianalgo.org](https://github.com/MeridianAlgo/meridianalgo.org)** — Source code for our official website.
+### Other Projects
+- **[LiteLayer]([https://github.com/MeridianAlgo/LiteLayer)]** — A lightweight, secure storage layer for self-hosted NAS.
+
 
 ## Contributing Guidelines
 We welcome contributions from everyone. Please review our guidelines before participating.
@@ -50,13 +47,11 @@ We welcome contributions from everyone. Please review our guidelines before part
 ### Community and Contribution
 - **[Contributing Guide](CONTRIBUTING.md)** — How to contribute to our projects
 - **[Code of Conduct](CODE_OF_CONDUCT.md)** — Community standards and expectations
-
+- **[Issue Reporting](ISSUE_REPORTING.md)** — How to report bugs and request features
+- 
 ### Security and Quality
 - **[Security Policy](SECURITY.md)** — Security guidelines and vulnerability reporting
 - **[Code Quality](CODE_QUALITY.md)** — Development standards and best practices
-
-### Issues
-- **[Issue Reporting](ISSUE_REPORTING.md)** — How to report bugs and request features
 
 ## Contact
 - **Website**: [meridianalgo.org](https://meridianalgo.org)
