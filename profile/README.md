@@ -1,10 +1,10 @@
 # MeridianAlgo
-**Empowering the world with Open-Source Innovation**
+**At the forefront of change**
 
-We are a nonprofit organization active in multiple countries, creating technology for students, companies, and everyone in between. All our work is 100% open-source, transparent, and community-driven.
+We are a nonprofit organization creating technology for students, companies, and everyone in between. All our work is 100% open-source, transparent, and community-driven.
 
 ## Projects
-We have a growing collection of open-source projects focused on financial technology, AI, quantitative finance, education, blockchain, and interoperability. Here are **all our current public repositories**:
+We have a growing collection of open-source projects across multiple fields. Here are all of our current repositories:
 
 ### Core Tools & Platforms
 - **[AraAI](https://github.com/MeridianAlgo/AraAI)** — AI-powered financial analysis platform for stock volatility forecasting, market predictions, and portfolio optimization.
@@ -43,3 +43,5 @@ We have a growing collection of open-source projects focused on financial techno
 
 ---
 *We stand on the shoulders of giants, reaching for the stars"
+
+
